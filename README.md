@@ -35,9 +35,3 @@
 - `retrieval.py` – Search and retrieval utilities
 - `ingestion.py` - Ingest Chunks to VectorDB
 - `helper.py` – Supporting modules
-
-## Used Links
-- PDF file Used - https://arxiv.org/pdf/2312.10997
-- Ollama Embedding Model - https://www.ollama.com/library/nomic-embed-text
-- Ollama Text Model - https://www.ollama.com/library/deepseek-r1
-- Run Ollama as a Docker Container - https://ollama.com/blog/ollama-is-now-available-as-an-official-docker-image# real-case-study-QNA-by-using-RAG
